@@ -7,7 +7,7 @@
             <css file="basket.css"/>
         </resources>
         <parameters>
-            <parameter name="webhelp.fragment.feedback" value="feedback-install.xml"/>
+            <parameter name="webhelp.fragment.feedback" value="feedback-install.xml" type="filePath"/>
         </parameters>
     </webhelp>
     <pdf>
