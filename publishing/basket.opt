@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><publishing-template>
-<name>Basket</name>
-<webhelp>
-<resources>
-<css file="basket.css"/>
-</resources>
-</webhelp>
-<pdf>
-<resources>
-<css file="basket.css"/>
-</resources>
-</pdf>
+<?xml version="1.0" encoding="UTF-8"?>
+<publishing-template>
+    <name>Basket</name>
+    <webhelp>
+        <preview-image file="template.png"/>
+        <resources>
+            <css file="basket.css"/>
+        </resources>
+    </webhelp>
+    <pdf>
+        <preview-image file="template.png"/>
+        <resources>
+            <css file="basket.css"/>
+        </resources>
+    </pdf>
 </publishing-template>
