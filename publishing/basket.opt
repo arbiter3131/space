@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><publishing-template>
+<name>Basket</name>
+<webhelp>
+<resources>
+<css file="basket.css"/>
+</resources>
+</webhelp>
+<pdf>
+<resources>
+<css file="basket.css"/>
+</resources>
+</pdf>
+</publishing-template>
