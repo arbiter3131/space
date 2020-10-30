@@ -3,7 +3,7 @@
 /*#
 @info@STYLES BASKET SELECTIONS METADATA@info@
 @name&styles_basket&name@
-@aspects&theme-fonts-monsterat-lato,toc-numbering-deep,page-size-a5,content-font-size-10,title-font-size-normal,table-style-box,ordered-list-counter-lower-alpha&aspects@
+@aspects&theme-fonts-monsterat-lato,toc-numbering-deep,page-size-a5,content-font-size-10,title-font-size-normal,table-style-box&aspects@
 @info@WARNING: PLEASE DON'T MODIFY THIS FILE. MODIFICIATION CAN CAUSE UPLOADING ERRORS@info@
 #*/
 /*theme-fonts-monsterat-lato*/
@@ -80,10 +80,5 @@ th {
 .table th {
   border-top: none;
   border-bottom: none !important;
-}
-/*ordered-list-counter-lower-alpha*/
-*[class~='topic/ol'] *[class~='topic/li'],
-*[class~="topic/ol"] > *[class~="topic/li"] *[class~="topic/ol"] > *[class~="topic/li"] {
-  list-style-type: lower-alpha;
 }
 
