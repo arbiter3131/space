@@ -1,4 +1,5 @@
 #!/bin/sh
+rm -rf out
 # Copy the LICENSE_KEY variable into 'licensekey.txt' in Oxygen Publishing Engine 
 printf "%s" "$LICENSE_KEY" > ope/licensekey.txt
 # The LICENSE_KEY variable does not contain new line character but '@@' instead
