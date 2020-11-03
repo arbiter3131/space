@@ -12,7 +12,4 @@ jobs:
                 chmod +x deploy.sh
                 export ANT_OPTS=-Xmx1024M
                 sh publish.sh
-      - run:
-            when: on_success
-            command: |
                 sh deploy.sh
