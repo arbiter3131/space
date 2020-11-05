@@ -7,6 +7,7 @@
     <projectTree name="space.xpr">
         <folder path=".circleci/"/>
         <folder path="ope/"/>
+        <folder path="publishing/"/>
         <folder path="sample/"/>
         <file name=".gitignore"/>
         <file name=".travis.yml"/>
