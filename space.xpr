@@ -10,7 +10,6 @@
         <folder path="publishing/"/>
         <folder path="sample/"/>
         <file name=".gitignore"/>
-        <file name=".travis.yml"/>
         <file name="deploy.sh"/>
         <file name="publish.sh"/>
         <file name="README.md"/>
