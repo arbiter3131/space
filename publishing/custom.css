@@ -6,6 +6,6 @@
     background-color: aliceblue;
 }
 
-*[class ~= 'topic/li'] {
-    font-family: 'Lato', "Segoe UI Symbol", sans-serif !important;
+*[class ~= 'topic/li']::marker {
+    font-family: "Times New Roman", "Segoe UI Symbol";
 }
