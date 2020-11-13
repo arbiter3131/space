@@ -7,5 +7,5 @@
 }
 
 *[class ~= 'topic/li']::marker {
-    font-family: "Times New Roman", "Segoe UI Symbol";
+    font-family: "DejaVu Serif", FreeSerif;
 }
