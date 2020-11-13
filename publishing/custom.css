@@ -1,0 +1,11 @@
+*[class ~= "toc/toc"] {
+    font-family: 'Montserrat', sans-serif;
+}
+
+*[class ~= "pr-d/codeblock"] {
+    background-color: aliceblue;
+}
+
+*[class ~= 'topic/li'] {
+    font-family: 'Lato', "Segoe UI Symbol", sans-serif !important;
+}
