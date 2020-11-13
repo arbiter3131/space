@@ -6,6 +6,13 @@
     background-color: aliceblue;
 }
 
+*[class~='topic/shortdesc'],
+*[class~='topic/p'],
+*[class~='topic/li'],
+*[class~='topic/tbody'] {
+  font-family: 'Lato', 'DejaVu Sans', sans-serif !important;
+}
+
 *[class ~= 'topic/li']::marker {
     font-family: "DejaVu Serif", FreeSerif;
 }
